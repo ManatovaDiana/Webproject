@@ -1,0 +1,132 @@
+.header{
+	position: fixed;
+	width: 100%;
+	height: 40px;
+	background-color: #0E2E3B;
+	top:0px; 
+}
+.fonn img{
+	width: 150px;
+	height: 200px;
+}
+.sec img{
+	width: 150px;
+	height: 200px;
+}
+
+.Drama{
+	display: flex;
+	flex-direction: column;
+	width: 350px;
+	margin-top: 40px;
+
+}
+.Boe{
+	display: flex;
+	flex-direction: column;
+	width: 350px;
+	margin-top: -135px;
+}
+.Uzh{
+	display: flex;
+	flex-direction: column;
+	width: 350px;
+	margin-top: -105px;
+}
+.Fan{
+	display: flex;
+	flex-direction: column;
+	width: 350px;
+	margin-top: 15px;
+}
+.Thriller{
+	display: flex;
+	flex-direction: column;
+	width: 350px;
+	
+}
+.Comedy{
+	display: flex;
+	flex-direction: column;
+	width: 350px;
+	margin-top: -55px;
+}
+body{
+	margin:0px;
+	padding: 0px;
+	background:url("fon2.jpg");
+
+
+
+}
+
+.fonn{
+	margin-top: 70px;
+	margin-left: 215px;
+}
+
+
+a{
+	color: black;
+	margin-top: 20px;
+}
+strong{
+	color: black;
+	font-size: 25px;
+}
+
+.footer{
+	margin-top: 50px;
+	height: 70px;
+	background-color: black;
+}
+.header .b{
+	margin-left: 200px;
+	font-size: 20px;
+	color: red;
+}
+
+.footer h{
+	margin-left: 40px;
+	color: white;
+	font-size: 30px;
+	margin-top: 15px;
+}
+.footer a{
+	margin-left: 40px;
+	font-size: 30px;
+	margin-top: 15px;
+}
+.ff{
+	display: flex;
+	flex-direction: row;
+}
+.fb{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 40px;
+}
+.odnok{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 40px;
+}
+.insta{
+	margin-top: 20px;
+	height: 40px;
+	margin-left: 90px;
+}
+.tw{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 40px;
+}
+.vk{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 40px;
+}
+.home{
+	height: 30px;
+
+}

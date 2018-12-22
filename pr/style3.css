@@ -1,0 +1,108 @@
+.a img{
+	width: 350px;
+	height: 400px;
+	margin-top: 70px;
+	margin-left: 10px;
+}
+.a{
+	display: flex;
+	flex-direction: row;
+}
+a{
+	margin-top: 20px;
+	font-size: 30px;
+	color:teal;
+}
+.ff{
+	margin-top: 60px;
+	margin-left: 30px;
+}
+.rr tr strong{
+	margin-left: 10px;
+}
+td{
+	width: 300px;
+}
+.op{
+	padding-bottom: 125px;
+}
+.header p{
+	font-size: 20px;
+	color: white;
+}
+.h{
+	font-size: 20px;
+}
+.screen img{
+	width: 100px;
+	height: 100px;
+	margin-left: 10px;
+}
+body{
+	margin:0px;
+	padding: 0px;
+}
+.ds h{
+	margin-left: 10px;
+}
+
+.screen td{
+	width: 100px;
+}
+.footer{
+	margin-top: 50px;
+	height: 70px;
+	background-color: black;
+}
+.footer h{
+	margin-left: 40px;
+	color: white;
+	font-size: 30px;
+	margin-top: 15px;
+}
+.footer a{
+	margin-left: 40px;
+	font-size: 30px;
+	margin-top: 15px;
+}
+.ff{
+	display: flex;
+	flex-direction: row;
+}
+.header{
+	position: fixed;
+	width: 100%;
+	height: 60px;
+	background-color: teal;
+	top:0px; 
+	text-align: center;
+}
+.fb{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 40px;
+}
+.odnok{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 40px;
+}
+.insta{
+	margin-top: 20px;
+	height: 40px;
+	margin-left: 90px;
+}
+.tw{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 40px;
+}
+.vk{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 40px;
+}
+.home{
+	height: 40px;
+	margin-right: 1500px;
+}

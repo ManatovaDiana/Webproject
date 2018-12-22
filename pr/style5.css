@@ -1,0 +1,79 @@
+.main{
+	width: 100%;
+	height: 100%;
+}
+td{
+	width: 550px;
+}
+.footer{
+	margin-top: -23px;
+	height: 70px;
+	background-color: black;
+}
+.footer h{
+	margin-left: 40px;
+	color: white;
+	font-size: 25px;
+	margin-top: 25px;
+}
+.footer a{
+	margin-left: 40px;
+	font-size: 15px;
+	margin-top: 25px;
+}
+.ff{
+	display: flex;
+	flex-direction: row;
+}
+
+.header{
+	display: flex;
+	flex-direction: row;
+	position: fixed;
+	width: 100%;
+	height: 60px;
+	background-color: #0E2E3B;
+	top:0px;
+	text-align:center; 
+}
+.header p{
+	color: white;
+	margin-left: 20px;
+}
+table{
+	margin-top: 80px;
+}
+body{
+	background:url("fon.jpg");
+	padding: 0px;
+	margin: 0px;
+}
+.fb{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 40px;
+}
+.odnok{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 40px;
+}
+
+.insta{
+	margin-top: 20px;
+	height: 40px;
+	margin-left: 90px;
+}
+.tw{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 40px;
+}
+.vk{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 40px;
+}
+.home{
+	height: 50px;
+}

@@ -1,0 +1,163 @@
+body{
+	background: url("fon3.png");
+	margin: 0px;
+	padding: 0px;
+}
+.big{
+	display: flex;
+	flex-direction: column;
+
+}
+.header{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+	width: 100%;
+	height: 60px;
+	background-color: teal;
+}
+.header a{
+	font-family: sans-serif;
+	color: white;
+	font-weight: bold;
+	font-size: 25px;
+}
+.center{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+}
+.forB{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.subDiv{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	
+}
+button{
+	margin-bottom: -50px;
+	margin-right: -50px;
+	border-radius: 8px;
+	background-color: red;
+	height: 60px;
+	width: 170px;
+}
+button a{
+	font-size: 20px;
+	font-family: sans-serif;
+	color: white;
+}
+button:hover{
+	background-color: green;
+}
+.div{
+	display: flex;
+	flex-direction: row;
+	margin-left: -320px;
+}
+.o{
+
+	margin-top: 15px;
+	font-size: 30px;
+	font-family: sans-serif;
+	font-weight: bold;
+	color: black;
+
+}
+textarea{
+	border:3px solid teal;
+	margin-top: 10px;
+	height: 100px;
+	width: 200px;
+}
+input{
+	border-radius: 2px;
+	width: 200px;
+	height: 40px;
+}
+.description img{
+	
+	height: 300px;
+	width: 250px;
+}
+.description{
+	margin-left: -300px;
+	margin-top: 10px;
+	width: 500px;
+	height: 300px;
+	border:4px solid teal;
+	border-radius: 7px;
+	display: flex;
+	flex-direction: row;
+}
+.inputs{
+	margin-left: 10px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+.firstText{
+	margin-top: 25px;
+	margin-left: -450px;
+	font-size: 35px;
+	color: black;
+	font-family: cursive;
+}
+.footer{
+	margin-top:300px;
+
+	height: 70px;
+	background-color: black;
+}
+.footer h{
+	margin-left: 40px;
+	color: white;
+	font-size: 30px;
+	margin-top: 15px;
+}
+.footer a{
+	margin-left: 40px;
+	font-size: 30px;
+	margin-top: 15px;
+}
+.ff{
+	display: flex;
+	flex-direction: row;
+}
+.fb{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 40px;
+}
+.odnok{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 40px;
+}
+.insta{
+	margin-top: 20px;
+	height: 40px;
+	margin-left: 90px;
+}
+.tw{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 40px;
+}
+.vk{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 40px;
+}
+.home{
+	height: 50px;
+	margin-left: -600px;
+}

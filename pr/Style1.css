@@ -1,0 +1,235 @@
+
+.header{
+	position: absolute;
+	width: 100%;
+	height: 70px;
+	background-color: lightseagreen;
+	top:0px; 
+	cursor:pointer;
+}
+body{
+	background-image: url(back.jpg);
+	margin: 0px;
+	padding: 0px;
+}
+input{
+	background-color: white;
+	display: block;
+	border-radius: 5px;
+	margin-left: 1100px;
+	margin-bottom: 10px;
+	margin-top: -15px;
+
+}
+.header button{
+	text-align: left;
+	background-color: black;
+	color: white;
+	border-radius: 5px;
+	display: block;
+	width: 170px;
+	margin-left: 1100px;
+	margin-top: -10px;
+
+}
+.Text{
+	display: flex;
+	flex-direction: row;
+	justify-content: left;
+	margin-top: -15px;
+}
+.Text a{
+	margin-left: 10px;
+	color: white;
+	font-size: 25px;
+	margin-top: -25px;
+
+}
+.nn{
+	text-align:center;
+
+}
+.nn a{
+	text-decoration:none;
+	font-size: 150%;
+	
+}
+.Text .now{
+	margin-left: 50px;
+	margin-right: 100px;
+	margin-top: -50px;
+	font-size: 50px;
+}
+.Main{
+	display: flex;
+	flex-direction: row;
+	margin-top: 90px;
+}
+.fp{
+	width: 100%;
+	background-color: mediumaquamarine;
+
+}
+.fp img{
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.sp{
+	width: 50%;
+}
+.first{
+	width: 350px;
+	height: 350px;
+}
+.second{
+
+	width: 400px;
+    height: 450px;
+}
+.textt a{
+	font-size: 20px;
+	color: white;
+}
+.textt button{
+	width: 90px;
+	margin-left: 10px;
+	border-radius: 5px;
+	color: #898989;
+	background-color: white;
+	margin-top: 20px;
+}
+.textt{
+	display: flex;
+	flex-direction: column;
+	margin-left: 10px;
+}
+
+.Mainn img{
+	width: 250px;
+	height: 300px;
+	margin-left: 15px;
+}
+.Nadpisi p{
+	color: black;
+	text-align:center;
+}
+.Mainn a{
+	color: blue;
+}
+.Buttons{
+	display: flex;
+	margin-top: 50px;
+}
+.Buttons  button{
+	flex-direction: row;
+	border-radius: 5px;
+	margin-left: 50px;
+	background-color: white;
+	border:2px solid teal;
+	height: 30px;
+	width: 100px;
+}
+.texxt{
+	display: flex;
+	flex-direction: row;
+	margin-left: 35px;
+	margin-top: 10px;
+}
+.texxt a{
+	color: teal;
+	font-size: 20px;
+	margin-left: 10px;
+}
+.texxt button{
+	margin-left: 30px;
+	border-radius: 5px;
+	background-color: white;
+	border:2px solid teal;
+}
+.last{
+	margin-top: 40px;
+}
+.last img{
+	width: 250px;
+	height: 300px;
+	margin-left: 15px;
+}
+.footer{
+	margin-top: 50px;
+	height: 80px;
+	background-color: black;
+}
+.header .b{
+	margin-left: 1350px;
+	font-size: 20px;
+	color: white;
+	margin-top: 30px;
+
+}
+
+.footer h{
+	margin-left: 40px;
+	color: white;
+	font-size: 20px;
+	margin-top: 15px;
+}
+.footer a{
+	margin-left: 60px;
+	font-size: 30px;
+	margin-top: 15px;
+	color:white;
+}
+.ff{
+	cursor:pointer;
+	display: flex;
+	flex-direction: row;
+}
+.fb{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 40px;
+}
+.odnok{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 40px;
+}
+.insta{
+	margin-top: 20px;
+	height: 40px;
+	margin-left: 90px;
+}
+.tw{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 40px;
+}
+.vk{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 40px;
+}
+
+#carousels{
+	position: relative;
+	width: 250px;
+	height: 300px;
+	margin-right: 15px;
+}
+.carousel{
+	position: absolute;
+	left: 0;
+	top:0;
+	opacity: 0;
+	transition: opacity 3s;
+}
+.demonstration{
+	opacity: 1;
+}
+@media screen and (max-width: 700px){
+	.mob{
+		display: flex;
+		flex-direction: column;
+	}
+}
